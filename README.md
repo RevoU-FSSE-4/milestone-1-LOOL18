@@ -32,7 +32,7 @@ You will need a github account to clone this repository, make sure you're connec
 1. Clone this repository
 
 ```
-git clone https://github.com/revou-fsse-3/milestone-1-LOOL18.git
+git clone https://github.com/RevoU-FSSE-4/milestone-1-RIZQI.git
 ```
 
 2. Create a new branch named "develop", in this repository we would like to develop the website with personal information.
@@ -71,7 +71,7 @@ The project has been successfully deployed using Netlify. You can access the pro
 
 ### Deployment status :
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f459b63-ef8d-4352-99a4-9efe96466988/deploy-status)](https://app.netlify.com/sites/glittery-horse-3be537/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc2094dc-2173-4992-8166-e9180f68277d/deploy-status)](https://app.netlify.com/sites/rizqi-week5/deploys)
 
 ---
 
